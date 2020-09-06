@@ -1,0 +1,24 @@
+{
+  "name": "express-vue-dev",
+  "version": "0.1.0",
+  "description": "A starting point boilerplate full stack project built with Node, Express, and Vue",
+  "main": "./server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Raven-s-Eye-Solutions/express-vue-dev.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Vue"
+  ],
+  "author": "Karsten Rabe <karstenrabe91@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Raven-s-Eye-Solutions/express-vue-dev/issues"
+  },
+  "homepage": "https://github.com/Raven-s-Eye-Solutions/express-vue-dev#readme"
+}
